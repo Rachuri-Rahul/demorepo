@@ -1077,7 +1077,7 @@
                     <p>Your one-stop destination for all the latest products in technology, fashion, and lifestyle.</p>
                     <div class="social-links">
                         <a href="#"><em class="fab fa-facebook-f"></em></a>
-                        <a href="#"><i class="fab fa-twitter"></em></a>
+                        <a href="#"><em class="fab fa-twitter"></em></a>
                         <a href="#"><em class="fab fa-instagram"></em></a>
                         <a href="#"><em class="fab fa-youtube"></em></a>
                     </div>
