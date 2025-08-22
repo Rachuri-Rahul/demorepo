@@ -818,7 +818,7 @@
                 <a href="#"><em class="far fa-user"></em></a>
                 <a href="#"><em class="far fa-heart"></em></a>
                 <a href="#"><em class="fas fa-shopping-cart"></em><span class="cart-count">3</span></a>
-                <button class="mobile-menu-btn" id="mobileMenuBtn"><i class="fas fa-bars"></i></button>
+                <button class="mobile-menu-btn" id="mobileMenuBtn"><em class="fas fa-bars"></em></button>
             </div>
         </div>
     </header>
@@ -844,12 +844,12 @@
         
         <div class="categories">
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
+                <div class="category-icon"><em class="fas fa-mobile-alt"></i></div>
                 <h3>Smartphones</h3>
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-laptop"></i></div>
+                <div class="category-icon">em class="fas fa-laptop"></em></div>
                 <h3>Laptops</h3>
                 <p>Powerful machines for work & play</p>
             </div>
